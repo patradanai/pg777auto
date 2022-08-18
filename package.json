@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "atom-package:toggle"
   },
-  "repository": "https://github.com/patradanai/pg777auto.git",
+  "repository": "https://github.com/patradanai/pg777auto",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
