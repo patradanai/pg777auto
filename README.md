@@ -1,6 +1,6 @@
 # atom-package package
 
-TEST PG777
+PG777AUTO
 
 A short description of your package.
 
